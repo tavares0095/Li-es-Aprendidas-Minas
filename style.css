@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(240, 240, 235);
+}
+.menu{
+    background-color: black;
+    text-align: center;
+    
+}
+img{
+    margin-top: 50px;
+    padding: 15px;
+}
+h1, h2{
+    color: rgb(209, 209, 209);
+    padding: 20px;
+}
+
+.primeira{
+    margin-top: 30px;
+    padding: 15px;
+    text-align: center;
+}
+
+.primeira h4{
+    background-color: rgb(234, 150, 234);
+    margin-top: 40px;
+    padding: 9px;
+    color: rgb(209, 209, 209);
+    text-align: left ;
+}
+
+.primeira h3{
+    color: rgb(95, 93, 93);
+}
+div{
+    
+    display: inline-block;
+    width: 25%;
+    height: 150px;
+}
+
+.img{
+    height: 100px;
+    width: 150px;
+    margin-left: 450px
+}
